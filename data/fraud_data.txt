@@ -1,0 +1,59 @@
+Unauthorized credit card transaction detected for amount 5000 at midnight from unknown location.
+
+Multiple rapid withdrawals detected from ATM indicating possible fraud.
+
+Suspicious online payment made using stolen card details.
+
+Phishing email reported asking for bank credentials and OTP.
+
+Identity theft case where loan was taken using another person's PAN and Aadhaar.
+
+Unusual high-value transaction flagged on inactive credit card.
+
+Fake loan approved using stolen identity documents.
+
+Repeated failed login attempts followed by successful transaction.
+
+Unauthorized UPI transfer made without user consent.
+
+Card cloning suspected due to duplicate transactions in different locations.
+
+Fraudulent e-commerce purchase using compromised card details.
+
+Suspicious transaction detected outside usual geographic location.
+
+ATM skimming suspected after abnormal withdrawals.
+
+Unauthorized subscription payments detected.
+
+Fraud alert triggered due to abnormal spending pattern.
+
+Transaction flagged due to mismatch in device and location.
+
+User reported unauthorized wallet transaction.
+
+High-risk transaction blocked by fraud detection system.
+
+Fraudulent account creation using fake identity.
+
+Suspicious refund abuse detected in e-commerce transaction.
+
+Unauthorized access to bank account and fund transfer.
+
+Multiple transactions detected within seconds from same account.
+
+Unusual login from foreign IP followed by large transfer.
+
+Payment made without OTP verification indicating fraud.
+
+Account takeover suspected due to password reset and transactions.
+
+Suspicious merchant transaction flagged by system.
+
+Transaction flagged due to blacklisted IP usage.
+
+Fake insurance claim filed using stolen identity.
+
+Repeated suspicious login attempts followed by withdrawal.
+
+Unauthorized digital wallet usage detected.
